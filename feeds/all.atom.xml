@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Shane's Blog</title><link href="https://swrogers.github.io/" rel="alternate"></link><link href="https://swrogers.github.io/feeds/all.atom.xml" rel="self"></link><id>https://swrogers.github.io/</id><updated>2019-08-22T00:00:00-05:00</updated><entry><title>First Post</title><link href="https://swrogers.github.io/first-post.html" rel="alternate"></link><published>2019-08-22T00:00:00-05:00</published><updated>2019-08-22T00:00:00-05:00</updated><author><name>Shane Rogers</name></author><id>tag:swrogers.github.io,2019-08-22:/first-post.html</id><summary type="html">&lt;p&gt;This is the&amp;nbsp;first.&lt;/p&gt;</summary><content type="html">&lt;h1&gt;The First&amp;nbsp;Post&lt;/h1&gt;
+&lt;p&gt;Here we go&amp;nbsp;again&amp;#8230;&lt;/p&gt;
+&lt;h3&gt;Header&amp;nbsp;3&lt;/h3&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Is this working?
+Because I don&amp;#8217;t think&amp;nbsp;so&lt;/p&gt;
+&lt;/blockquote&gt;</content><category term="pelican"></category><category term="other"></category></entry></feed>
